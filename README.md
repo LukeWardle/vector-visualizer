@@ -7,6 +7,18 @@ A professional Python tool for visualizing 2D vectors as geometric arrows. Built
 - 📊 **High-quality output** (300 DPI) for reports and presentations
 - ✅ **Comprehensive tests** with pytest
 - 📝 **Professional documentation**
+## Gallery
+### Single Vector
+![Single Vector](examples/single_vector.png)
+### Multiple Vector Comparison
+![Vector Comparison](examples/vector_comparison.png)
+### Vector Addition
+Visualizing a + b = c:
+![Vector Addition](examples/vector_addition.png)
+### Force Decomposition
+Breaking down a force into X and Y components:
+![Force Decomposition](examples/force_decomposition.png)
+
 ## Installation
 ```bash
 # Clone repository
