@@ -75,10 +75,13 @@ vector-visualizer/
 │   └── plot_utils.py      # Core plotting functions
 ├── tests/
 │   └── test_plot_utils.py # Unit tests
-├── outputs/               # Generated plots
+├── examples/              # README example plots
+│   ├── generate_examples.py
+│   └── *.png
+├── outputs/               # Generated plots from CLI or scripts
 ├── main.py                # CLI interface
 ├── requirements.txt       # Dependencies
-└── README.md             # This file
+└── README.md              # This file
 ```
 ## Technologies
 - Python 3.8+
